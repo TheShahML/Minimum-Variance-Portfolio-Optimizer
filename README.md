@@ -8,7 +8,7 @@ Modern Portfolio Theory implementation with minimum variance optimization using 
 
 ## Demo
 
-### Interactive Optimization Session
+### Sample Run
 
 ![Demo Run](screenshots/demo_run.gif)
 
